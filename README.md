@@ -2,7 +2,6 @@
 
 This repository showcases my strength in Python programming through a collection of problem-solving scripts.
 
-<img src="images/enigma_130.png" alt="Python Problems" width="100%">
+<img width="1854" height="546" alt="enigma_130 (1)" src="https://github.com/user-attachments/assets/1b38503c-2f2c-4bc3-b184-2d588e5b7fd4" />
 
-🔗 [View Repository](https://github.com/bhavya13-ux/PYTHON--PROBLEMS)
 
